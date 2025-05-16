@@ -54,3 +54,5 @@ A full-stack reservation and customer management platform for RV park administra
 - Improved backend layering
 - Developed production-level debugging and error handling skills
 
+A note like:
+"Source code available upon request for employers."
